@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 😄 Pronouns : they/them
+- 📫 How to reach me: pasekaalex@gmail.com or pasekaalice@gmail.com // Discord: paseka#9612
+- 💬 Ask me about mechanical keyboards :D
+- 🔭 I’m currently working on Ready Heady a timer webapp. 
 <!--
 **readyheady/readyheady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
